@@ -11,8 +11,6 @@
     <services>
         <service id="simple_html_dom" class="%simple_html_dom.class%">
         </service>
-        <service id="niopublic.simple_html_dom" class="%simple_html_dom.class%" public="true">
-        </service>
     </services>
 </container>
 
